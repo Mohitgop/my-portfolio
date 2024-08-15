@@ -63,7 +63,7 @@ const subheadingsData = {
             content: (
                 <>
                 <p><ul>
-                <li>Position  : Digital Marketing Intern [December 2012 - March 2013]</li>
+                <li>Position  : Digital Marketing Intern (3 Months) [December 12 - March 13] </li>
                 <li>Company : SAS Software Solutions Pvt Ltd, Thane</li> 
                 <li>Technologies Used : Canva, CorelDraw</li> 
                 <li>Description : Worked with a Digital Marketing team, focusing on Content Marketing and Social Media. Created content and implemented strategies to boost brand visibility and engagement.</li></ul>

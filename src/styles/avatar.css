@@ -42,7 +42,7 @@
 @media (max-width: 700px) {
     .avatar.about {
         z-index: -5;
-        height: 95vh;
-        bottom: -15vh;
+        height: 50vh;
+        bottom: 25vh;
     }
 }
